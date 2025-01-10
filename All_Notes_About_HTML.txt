@@ -1,0 +1,8 @@
+-> Itis like the building block of the website which provides the structure to the website.
+
+
+HTML ELEMENT = tag + content in the tag.
+
+Heading Tag:
+    <h1>........<h6>.
+    
